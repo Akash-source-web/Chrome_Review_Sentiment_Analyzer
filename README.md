@@ -38,6 +38,9 @@
    In order to use this app user first going to browse the csv file for which they want the review analization and after that the backend work of model start
    i.e. preprocessing and model analization after done all the work model give the output which you can download as a CSV file.
    
+   #### Link to app 
+            https://chrome-review-analyzer.herokuapp.com/
+   
    ### deployment ScreenShoots
    
    ![image](https://user-images.githubusercontent.com/65478598/162030637-670f2702-31f7-45cc-bc31-978cf492b8ab.png)
