@@ -4,3 +4,4 @@ re
 nltk
 joblib
 numpy
+pickle
